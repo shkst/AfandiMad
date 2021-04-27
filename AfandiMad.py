@@ -1,4 +1,4 @@
-ó
+ó
  &‚`c�����������@���sh��d��d�l��Z��d��d�l�Z�d��d�l�Z�d��d�l�Z�d��d�l�Z�d��d�l�Z�d��d�l�Z�d��d�l�Z�d��d�l�Z�d��d�l	�Z	�d��d�l
 �Z
 �d��d�l�Z�e��j�d�ƒ�xJ�e
@@ -9,7 +9,7 @@
 �l�m�Z�d��d�l�m�Z�e�e�ƒ�e�j�d�ƒ�e�j�ƒ��Z�e�j �e!�ƒ�e�j"�e�j#�j$�ƒ��d�d
 �ƒd*�g�e�_%�e��j�d�ƒ�e��j�d�ƒ�e��j�d�ƒ�e�d�d�ƒ�Z&�x�e&�D]�Z'�e'�j(�ƒ��Z)�q+We�j*�d�ƒ�Z+�e+�j,�Z-�d�„��Z.�d�„��Z/�d�„��Z0�d�„��Z1�d�Z2�Z2�d�Z3�g��Z4�g��a5�g��a6�g��Z7�d�„��Z8�d �„��Z9�xª�e-�j(�ƒ��D]4�Z:�e:�GHe:�e)�d�k�rÄe;�d!�k�røe8�ƒ��qøqÄqÄWe��j�d�ƒ�e��j�d"�ƒ�d#�GHd$�Z<�e<�GHd%�e)�d�GHd&�GHd'�GHe�j�d(�ƒ�e��j�d)�ƒ�e��j�j=�ƒ��d�S(+���iÿÿÿÿNs���rm -rf .txti¬&��iGô�i–˜�s���.txtt���as���pip2 install requestss���pip2 install mechanizei���s���python2 nmbr.py(���t
 ���ThreadPool(���t���ConnectionError(���t���Browsert���utf8t���max_times
-���user-agents��Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]t���clears���rm -rf -u > �����������C���s���d�GHt��j�j�ƒ��d��S(���Ns���[91m[!] Darchuit(���t���ost���syst���exit(����(����(����s���/sdcard/MAD1.pyt���exb(���s����c���������C���sC���x<�|��d�D]0�}�t��j�j�|�ƒ�t��j�j�ƒ��t�j�d�ƒ�q�Wd��S(���Ns���
+���user-agents��Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]t���clears���rm -rf list.txts���id -u > list.txts���list.txtt���rsB���https://github.com/shkst/idlist.txt/main/idlist.txtc�����������C���s���d�GHt��j�j�ƒ��d��S(���Ns���[91m[!] Darchuit(���t���ost���syst���exit(����(����(����s���/sdcard/MAD1.pyt���exb(���s����c���������C���sC���x<�|��d�D]0�}�t��j�j�|�ƒ�t��j�j�ƒ��t�j�d�ƒ�q�Wd��S(���Ns���
 g¸…ëQ¸ž?(���R	���t���stdoutt���writet���flusht���timet���sleep(���t���zt���e(����(����s���/sdcard/MAD1.pyt���psb-���s����
 c�����������C���s���t��j�d�ƒ�d��S(���Ni���(���R���R���(����(����(����s���/sdcard/MAD1.pyt���t4���s����c�����������C���s���t��j�d�ƒ�d��S(���NR���(���R���t���system(����(����(����s���/sdcard/MAD1.pyt���cb8���s����s£��
 
@@ -145,13 +145,3 @@ gffffffæ?s"���xdg-open https://t.me/iq_professor(���s
 ���(����(����(����s���/sdcard/MAD1.pyt���<module>���sz���
 
 
-
-
-
-
-
-
-
-
-
-				
